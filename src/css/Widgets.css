@@ -1,0 +1,7 @@
+.widgets{
+    flex: 1;
+    padding-top: 30px;
+    border-radius: 10px;
+    overflow-y: scroll;
+
+}

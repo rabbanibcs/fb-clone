@@ -1,0 +1,44 @@
+.sidebarrow {
+    display:flex;
+    align-items: center;
+    padding:0px;
+    padding-left: 20px;
+}
+
+.sidebarrow>h4 {
+    padding-left: 20px;
+    color: #37363c;
+
+}
+
+.sidebarrow:hover {
+    background-color: lightgrey;
+}
+
+.MuiSvgIcon-root{
+    color: #6e57fd;
+    /* font-size: xx-large; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+.story{
+    /* position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center center; */
+
+    height: 200px;
+    width: 120px;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 8px -9px #000000;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px;
+    box-shadow: 0px 5px 17px -9px #000000;
+    /* transition: 100ms ease-in; */
+
+}
+h4{
+    color: white;
+}
+.story__avatar{
+    
+    border: 5px solid blue;
+}
+
+.story:hover{
+
+    transform: scale(1.02);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
